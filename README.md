@@ -1,6 +1,6 @@
 ### Overview
 This repository contains a React application bootstrapped with Create React App.
-## DEMO: https://www.canva.com/design/DAGHopk32Js/QE6kTdOp534kCRXunC-ihw/watch?utm_content=DAGHopk32Js&utm_campaign=designshare&utm_medium=link&utm_source=editor
+#### DEMO: https://www.canva.com/design/DAGHopk32Js/QE6kTdOp534kCRXunC-ihw/watch?utm_content=DAGHopk32Js&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 
 ### Setup
